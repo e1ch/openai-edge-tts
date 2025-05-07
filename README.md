@@ -1,4 +1,4 @@
-# OpenAI-Compatible Edge-TTS API 🗣️
+# OpenAI-Compatible Edge-TTS API (Arm64 - Apple M Silicon) 🗣️
 
 ![GitHub stars](https://img.shields.io/github/stars/travisvn/openai-edge-tts?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/travisvn/openai-edge-tts?style=social)
