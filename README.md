@@ -1,3 +1,5 @@
+# Self-Test
+
 # OpenAI-Compatible Edge-TTS API (Arm64 - Apple M Silicon) 🗣️
 
 ![GitHub stars](https://img.shields.io/github/stars/travisvn/openai-edge-tts?style=social)
